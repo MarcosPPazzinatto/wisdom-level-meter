@@ -9,3 +9,6 @@ This project implements a digital level meter using the RoboCore BlackBoard Wisd
 - Simple and intuitive user interface.
 
 Ideal for educational projects, demonstrations of sensor integration, and hands-on learning with microcontrollers.
+
+## License  
+This project is licensed under the MIT License.
